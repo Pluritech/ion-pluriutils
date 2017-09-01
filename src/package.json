@@ -1,0 +1,28 @@
+{
+  "name": "@pluritech/ion-pluriutils",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pluritech/ion-pluriutils"
+  },
+  "author": {
+    "name": "Luis H. Moreno",
+    "email": "luis@pluritech.com.br"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pluritech/ion-pluriutils/issues"
+  },
+  "main": "ion-pluriutils.umd.js",
+  "module": "ion-pluriutils.js",
+  "jsnext:main": "ion-pluriutils.js",
+  "typings": "ion-pluriutils.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
