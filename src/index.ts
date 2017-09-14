@@ -17,5 +17,5 @@ export * from './terms-and-privacy.component';
     TermsAndPrivacyComponent
   ]
 })
-export class SampleModule {
+export class IonPluriutilsModule {
 }
